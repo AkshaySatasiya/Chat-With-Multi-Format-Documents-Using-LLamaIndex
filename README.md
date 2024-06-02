@@ -33,6 +33,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage 🚀
+First of all make sure to add your **LLMs API keys.**
 
 To start the Streamlit application, navigate to the project directory and run:
 
